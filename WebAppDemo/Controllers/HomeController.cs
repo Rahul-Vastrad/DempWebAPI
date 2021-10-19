@@ -13,7 +13,7 @@ namespace WebAppDemo.Controllers
         [Route("api/HomeController/GetDetails")]
         public string GetDetails()
         {
-            return "Rahul Vastrad";
+            return "Rahul Vastrad - Test for CI/CD Build.";
         }
     }
 }
